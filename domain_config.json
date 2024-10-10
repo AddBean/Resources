@@ -1,6 +1,6 @@
 {
   "domainList": [
-    "https://v.qq.com"
+    "https://www.iqiyi.com/"
   ],
   "dnsApis": [
     "https://dns.alidns.com/resolve?name={domain}&type={dnsType}",
