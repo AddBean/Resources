@@ -1,0 +1,12 @@
+{
+  "domainList": [
+    "https://v.qq.com"
+  ],
+  "dnsApis": [
+    "https://dns.alidns.com/resolve?name={domain}&type={dnsType}",
+    "https://dns.google/resolve?name={domain}&type={dnsType}"
+  ],
+  "configApis": [
+    "https://cdn.jsdelivr.net/gh/zhaoolee/Config@main/config.json"
+  ]
+}
