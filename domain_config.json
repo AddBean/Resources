@@ -7,6 +7,6 @@
     "https://dns.google/resolve?name={domain}&type={dnsType}"
   ],
   "configApis": [
-    "https://cdn.jsdelivr.net/gh/zhaoolee/Config@main/config.json"
+    "https://raw.githubusercontent.com/AddBean/Resources/refs/heads/main/domain_config.json"
   ]
 }
