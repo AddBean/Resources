@@ -1,12 +1,20 @@
-{
-  "domainList": [
-    "https://www.iqiyi.com/"
-  ],
-  "dnsApis": [
-    "https://dns.alidns.com/resolve?name={domain}&type={dnsType}",
-    "https://dns.google/resolve?name={domain}&type={dnsType}"
-  ],
-  "configApis": [
-    "https://raw.githubusercontent.com/AddBean/Resources/refs/heads/main/domain_config.json"
-  ]
-}
+ {
+    "lastDomain": "https://www.iqiyi.com",
+    "adImageUrl": "https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2024/10/22/1729550181639_977.jpg",
+    "adClickUrl": "https://www.baidu.com",
+    "adCountdown": 10,
+    "abUrl": "https://www.baidu.com",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+    "domainList": [
+      "https://www.iqiyi.com",
+      "https://www.iqiyi.com"
+    ],
+    "dnsApis": [
+      "https://dns.alidns.com/resolve?name={domain}&type={dnsType}",
+      "https://dns.google/resolve?name={domain}&type={dnsType}"
+    ],
+    "configApis": [
+      "https://raw.githubusercontent.com/AddBean/Resources/refs/heads/main/domain_config.json",
+      "https://raw.githubusercontent.com/AddBean/Resources/refs/heads/main/domain_config.json"
+    ]
+  }
